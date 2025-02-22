@@ -1,0 +1,25 @@
+.price-page {
+    padding: 20px;
+  }
+  
+  .price-page h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .price-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .price-page li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .price-page li span {
+    font-weight: bold;
+  }
+  
